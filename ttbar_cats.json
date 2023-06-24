@@ -7,7 +7,7 @@
 	"HIST": "MttvsMt$region",
 	"HIST_UP": "MttvsMt$region$systup",
 	"HIST_DOWN": "MttvsMt$region$systdown",
-	"path": "/afs/cern.ch/user/m/mmorris/BackgroundEstimation/CMSSW_10_6_14/src/BstarToTW_CMSDAS2023_BackgroundEstimation/rootfiles",
+	"path": "/afs/cern.ch/user/a/acwillia/public/CMSSW_10_6_14/src/BstarToTW_CMSDAS2023_BackgroundEstimation/rootFiles",
 	"SIGNAME": ["signalRSGluon2000", "signalRSGluon2500"]
     },
     "REGIONS": {
